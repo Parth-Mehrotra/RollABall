@@ -1,4 +1,4 @@
-# [Roll a ball](http://parthmehrotra.com/roll)
+# [Roll a ball](https://parth-mehrotra.github.io/RollABall/docs/)
 
 Welcome to Roll a ball, a 2 player competitive game. The game begins with 2 players in the middle, the object is to collect all the balls without touching any of the walls.
 
